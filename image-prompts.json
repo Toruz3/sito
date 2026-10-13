@@ -1,0 +1,26 @@
+{
+  "assets/landscape-products.webp": {
+    "use_case": "photorealistic-natural",
+    "asset_type": "ultra-wide website banner",
+    "prompt": "A crisp professional editorial landscape photograph of the Calabrian coast, with cultivated green hills and olive groves, a small sunlit hill town with terracotta roofs, the deep blue Ionian Sea and layered mountains. Late-afternoon Mediterranean light, realistic natural colors, fine detail and atmospheric depth. Strongest visual interest on the left and center, with a calmer blue-green area on the right for a white handwritten overlay. No people, text, letters, logos, symbols, hearts, watermarks, borders or user interface.",
+    "aspect_ratio": "3:1"
+  },
+  "assets/family-story.webp": {
+    "use_case": "photorealistic-natural",
+    "asset_type": "about-page editorial photograph",
+    "prompt": "Photorealistic professional editorial agriculture photograph for an Italian family farm website. Horizontal 3:2 composition. A Calabrian farmer seen from behind wearing a straw hat and muted work clothes, walking between abundant rows of peppers and tomatoes in a sunlit field; gentle mountains in the distance; warm late-afternoon Mediterranean light; crisp natural detail, realistic colors, premium local-produce brand photography. Place the farmer on the left third and reserve a calm, softly blurred green field area on the right for an HTML text overlay. No sign, no text, no letters, no logo, no watermark, no UI.",
+    "aspect_ratio": "3:2"
+  },
+  "assets/contact-thanks.webp": {
+    "use_case": "photorealistic-natural",
+    "asset_type": "contact-page produce still-life",
+    "prompt": "Photorealistic professional still-life for a Calabrian produce shop website. Horizontal 4:3 composition. Fresh tomatoes, red peppers, green vegetables and a rustic wooden crate on a weathered wooden table, warm Mediterranean farm-stand background, late-afternoon sunlight, crisp natural detail, premium food editorial photography. Keep a calm lighter area on the right or upper-right for a cream HTML thank-you card overlay. No sign, no paper, no text, no letters, no logo, no watermark, no UI.",
+    "aspect_ratio": "4:3"
+  },
+  "assets/farm-future.webp": {
+    "use_case": "photorealistic-natural",
+    "asset_type": "agricultural values image",
+    "prompt": "Photorealistic premium editorial photograph for an Italian family farm website. Horizontal 4:3 composition. Fresh olive branches with silvery green leaves and a few ripe green and dark olives arranged naturally on warm sunlit rustic earth and weathered wood, with a softly blurred Calabrian olive grove in the background. Warm late-afternoon Mediterranean light, crisp natural detail, realistic colors, elegant artisanal agricultural mood. Reserve a calm warm area in the upper-left or center-left for a cream HTML text card overlay. No paper, no sign, no text, no letters, no logo, no watermark, no UI.",
+    "aspect_ratio": "4:3"
+  }
+}
